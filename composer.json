@@ -1,0 +1,6 @@
+{
+    "name": "markhowellsmead/instagram-widget",
+    "require": {
+        "pgrimaud/instagram-user-feed": "^5.0"
+    }
+}
