@@ -23,7 +23,7 @@
             margin: 0;
             background: #eee;
         }
-        @media screen and (min-width: 25%){
+        @media screen and (min-width: 48rem){
             figure {
                 flex-basis: 25%;
             }
